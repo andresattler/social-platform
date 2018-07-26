@@ -1,17 +1,12 @@
 
-# PWA CRUD Appp
+# Social Platform
 
-This is a small CRUD App with a persistant local storage using redux-persistant, wich uses the local browser storage.
+this is a playground to test all sorts of new technologies
 
 ## Features
 
-* create, read, update, delete articles 
-* save state in local browser storage
-* full offline suport with service-worker
-* manifest file and icons for saving on homescreen
+* take selfies and add them to a feed :tada:
 
-## Demo
-[demo](https://andresattler.github.io/CRUD-PWA/)
 
 ## Prerequisites
 
@@ -35,15 +30,9 @@ yarn
 
 run in development mode:
 ```
-yarn start
+yarn dev
 ```
 
 now you can view this web app on localhost on port 8080
 
-## Build
-
-build app:
-```
-yarn build
-```
 
