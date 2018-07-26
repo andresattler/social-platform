@@ -20,7 +20,7 @@ Alternatively to yarn you can also use npm.
 
 clone this repo
 ```
-git clone https://github.com/andresattler/CRUD-PWA CRUD-PWA
+git clone https://github.com/andresattler/social-platform social-platform
 ```
 install dependencies
 ```
